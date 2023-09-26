@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+h1:hover{
+  color: turquoise;
+  font-size: 20px;
+}
+
+p{
+  color: white;
+}
